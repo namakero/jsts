@@ -36,6 +36,12 @@ body {
     border: 5px solid black;
 }
 
+@media (max-width: 600px){
+    body{
+        width: 100px;
+    }
+}
+
 img {
     width: 30px;
     height: 20px
